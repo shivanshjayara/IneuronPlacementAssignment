@@ -1,0 +1,23 @@
+2022-06-27	22:22:45		INFO		FamilyRelaton clas started. Here we have imported metaclass "ABC".
+2022-06-27	22:22:45		INFO		"ParenToSon" class initialsed which is child class of "FamilyRelation" class. This will only execute the "Son" method
+2022-06-27	22:22:45		INFO		"Brothers" class initialsed which is child class of "FamilyRelation" class
+2022-06-27	22:22:45		INFO		"Sisters" class initialsed which is child class of "FamilyRelation" class
+2022-06-27	22:22:45		INFO		"ParentToDaughter" class initialsed which is child class of "FamilyRelation" class
+2022-06-27	22:27:55		INFO		FamilyRelaton clas started. Here we have imported metaclass "ABC".
+2022-06-27	22:27:55		INFO		"ParenToSon" class initialsed which is child class of "FamilyRelation" class. This will only execute the "Son" method
+2022-06-27	22:27:55		INFO		"Brothers" class initialsed which is child class of "FamilyRelation" class
+2022-06-27	22:27:55		INFO		"Sisters" class initialsed which is child class of "FamilyRelation" class
+2022-06-27	22:27:55		INFO		"ParentToDaughter" class initialsed which is child class of "FamilyRelation" class
+2022-06-27	22:27:57		INFO		"Son" method is initialed under "child class "ParenToSon"
+2022-06-27	22:27:57		INFO		"Brother" method is initialed under "child class "Brothers"
+2022-06-27	22:27:58		INFO		"Sister" method is initialed under "child class "Sisters"
+2022-06-27	22:27:59		INFO		"Daughter" method is initialed under "child class "ParentToDaughter"
+2022-06-27	22:34:52		INFO		FamilyRelaton clas started. Here we have imported metaclass "ABC".
+2022-06-27	22:34:52		INFO		"ParenToSon" class initialsed which is child class of "FamilyRelation" class. This will only execute the "Son" method
+2022-06-27	22:34:52		INFO		"Brothers" class initialsed which is child class of "FamilyRelation" class
+2022-06-27	22:34:52		INFO		"Sisters" class initialsed which is child class of "FamilyRelation" class
+2022-06-27	22:34:52		INFO		"ParentToDaughter" class initialsed which is child class of "FamilyRelation" class
+2022-06-27	22:34:53		INFO		"Son" method is initialed under "child class "ParenToSon"
+2022-06-27	22:34:53		INFO		"Brother" method is initialed under "child class "Brothers"
+2022-06-27	22:34:53		INFO		"Sister" method is initialed under "child class "Sisters"
+2022-06-27	22:34:54		INFO		"Daughter" method is initialed under "child class "ParentToDaughter"

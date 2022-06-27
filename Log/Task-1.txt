@@ -1,0 +1,40 @@
+2022-06-27	22:28:55		INFO		CreateFile method started. Here we will be writing the text in the text file
+2022-06-27	22:28:55		INFO		Filename: assignment.txt
+2022-06-27	22:28:55		INFO		File created with file name assignment.txt
+2022-06-27	22:28:55		INFO		Text data enter in the file is: this is a placement assignment
+2022-06-27	22:28:56		INFO		ReadReplaceText method started. Here we read the file content and then replac ethe tsring iwth the new one
+2022-06-27	22:28:56		INFO		File open with file name assignment.txt
+2022-06-27	22:28:56		INFO		Readed all the contents
+2022-06-27	22:28:56		INFO		Old String sf is now replace with new string screening
+2022-06-27	22:28:56		INFO		Writing that new updated text into same file
+2022-06-27	22:31:25		INFO		CreateFile method started. Here we will be writing the text in the text file
+2022-06-27	22:31:25		INFO		Filename: assignment.txt
+2022-06-27	22:31:25		INFO		File created with file name assignment.txt
+2022-06-27	22:31:25		INFO		Text data enter in the file is: this is a placement assignment
+2022-06-27	22:31:27		INFO		ReadReplaceText method started. Here we read the file content and then replac ethe tsring iwth the new one
+2022-06-27	22:31:27		INFO		File open with file name assignment.txt
+2022-06-27	22:31:27		INFO		Readed all the contents
+2022-06-27	22:32:32		INFO		CreateFile method started. Here we will be writing the text in the text file
+2022-06-27	22:32:32		INFO		Filename: assignment.txt
+2022-06-27	22:32:32		INFO		File created with file name assignment.txt
+2022-06-27	22:32:32		INFO		Text data enter in the file is: This is a placement assignment
+2022-06-27	22:32:32		INFO		ReadReplaceText method started. Here we read the file content and then replac ethe tsring iwth the new one
+2022-06-27	22:32:32		INFO		File open with file name assignment.txt
+2022-06-27	22:32:32		INFO		Readed all the contents
+2022-06-27	22:32:51		INFO		CreateFile method started. Here we will be writing the text in the text file
+2022-06-27	22:32:51		INFO		Filename: assignment.txt
+2022-06-27	22:32:51		INFO		File created with file name assignment.txt
+2022-06-27	22:32:51		INFO		Text data enter in the file is: this is a placement assignment
+2022-06-27	22:34:34		INFO		CreateFile method started. Here we will be writing the text in the text file
+2022-06-27	22:34:34		INFO		Filename: assignment.txt
+2022-06-27	22:34:34		INFO		File created with file name assignment.txt
+2022-06-27	22:34:34		INFO		Text data enter in the file is: this is a placement assignment
+2022-06-27	22:34:42		INFO		CreateFile method started. Here we will be writing the text in the text file
+2022-06-27	22:34:42		INFO		Filename: assignment.txt
+2022-06-27	22:34:42		INFO		File created with file name assignment.txt
+2022-06-27	22:34:42		INFO		Text data enter in the file is: this is a placement assignment
+2022-06-27	22:34:47		INFO		ReadReplaceText method started. Here we read the file content and then replac ethe tsring iwth the new one
+2022-06-27	22:34:47		INFO		File open with file name assignment.txt
+2022-06-27	22:34:47		INFO		Readed all the contents
+2022-06-27	22:34:47		INFO		Old String placement is now replace with new string screening
+2022-06-27	22:34:47		INFO		Writing that new updated text into same file
